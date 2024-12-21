@@ -27,3 +27,5 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+![Alt text](./teste1.png "Optional title")
+![Alt text](./teste2.png "Optional title")
