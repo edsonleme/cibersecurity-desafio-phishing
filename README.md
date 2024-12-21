@@ -19,8 +19,10 @@
 - A ferramenta já nos informa o IP local.
 - Caso você precise, para obter o IP, basta usar o comando ifconfig no terminal.
 - Digitar então o IP da máquina e <ENTER>.
-- Agora iremos clonar o website "isca", digitandi a URL do Facebook: http://www.facebook.com.
-- 
+- Agora iremos clonar o website "isca", digitando a URL do Facebook: http://www.facebook.com.
+- Abre seu navegador e acesso o IP do seu servidor.
+- No console do Kali verá que está havendo acessos.
+- Poderá verificar que foi capturado o login e senha, conforme imagem em anexo.- 
 
 ### Resutados
 
